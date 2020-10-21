@@ -2,6 +2,8 @@
 
 I'm feeling really enthusiastic about this project, but didn't want to step on anyone's toes. Instead of working on the main app (excoappjs), I'm creating this one in parellel. I'm hoping that we can trade code between the two as it makes sense. Here is a list of currently working example of our opened story points:<br>
 
+## Finished Examples ##
+
 * Basic authentication with email and google
 * Configuration of authentication tools in firebase
 * Database modelling of the post requirement
@@ -16,7 +18,15 @@ I'm feeling really enthusiastic about this project, but didn't want to step on a
 * create filter and sorting rules for posts, based on credits and timestamp
 * adjust the timeline after post is deleted
 
-Instructions/README
+## To Do
+
+* Session management (Cookies)
+* User account state management
+* Security
+* Boilerplate privacy and end user agreement
+* more soon...
+
+# Install Instructions
 
 Open CMD prompt<br>
 Navigate to your xampp htdocs folder (Mine is C:\xampp\htdocs, but yours might be different)<br>
