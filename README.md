@@ -7,7 +7,7 @@ I'm feeling really enthusiastic about this project, but didn't want to step on a
 * Database modelling of the post requirement
 * Basic Create Functionality
 * implement main "fake delete" functionality, which is actually an update
-* implement time based track of posts (timestamp)
+* implement time based tracking of posts (timestamp)
 * retrieving posts from the server to timeline
 * Basic Read functionality using the timeline
 * inifinite scroll (in development, I have an example)
