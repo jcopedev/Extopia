@@ -1,5 +1,21 @@
 # Extopia
 
+I'm feeling really enthusiastic about this project, but didn't want to step on anyone's toes. Instead of working on the main app (excoappjs), I'm creating this one in parellel. I'm hoping that we can trade code between the two as it makes sense. Here is a list of currently working example of our opened story points:<br>
+
+*Basic authentication with email and google
+*Configuration of authentication tools in firebase
+*Database modelling of the post requirement
+*Basic Create Functionality
+*implement main "fake delete" functionality, which is actually an update
+*implement time based track of posts (timestamp)
+*retrieving posts from the server to timeline
+*Basic Read functionality using the timeline
+*inifinite scroll (in development, I have an example)
+*implement pagination--download json in chunks (almost complete)
+*create database indexes (this actually happens automatically)
+*create filter and sorting rules for posts, based on credits and timestamp
+*adjust the timeline after post is deleted
+
 Instructions/README
 
 Open CMD prompt<br>
