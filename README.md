@@ -48,6 +48,6 @@ That's all I have so far, and nothing is set in stone, but some features I'm ver
 
 <br>
 pages: <br>
-http://localhost/extopia/excoapp <br>
-http://localhost/extopia/excoapp/timeline.html <br>
-http://localhost/extopia/excoapp/authenticate.html<br>
+http://localhost/extopia/extopia <br>
+http://localhost/extopia/extopia/timeline.html <br>
+http://localhost/extopia/extopia/authenticate.html<br>
