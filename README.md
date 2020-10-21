@@ -1,6 +1,6 @@
 # Extopia
 
-I'm feeling really enthusiastic about this project, but didn't want to step on anyone's toes. Instead of working on the main app (excoappjs), I'm creating this one in parellel. I'm hoping that we can trade code between the two when it makes sense. Here is a list of currently working example of our opened story points:<br>
+I'm feeling really enthusiastic about this project, but didn't want to step on anyone's toes. Instead of working on the main app (excoappjs), I'm creating this one in parellel. I'm hoping that we can trade code between the two when it makes sense. Here is a list of currently working examples of our opened story points:<br>
 
 ## Finished Examples ##
 
